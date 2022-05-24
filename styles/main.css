@@ -338,7 +338,7 @@ footer .content .mnu_top li a:hover {
     transition: all 0.5s ease-in-out;
 }
 .arrow{
-    background-image: url(/images/block5_icon.png);
+    background-image: url(../images/block5_icon.png);
     display: inline-block;
     padding: 25px;
     margin-right: -50px;
